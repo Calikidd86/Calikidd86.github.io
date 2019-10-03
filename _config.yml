@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-   hackerrank: Calikidd86
+   hackerrank: "Calikidd86"
   # instagram: your_username
   # keybase: your_username
-   linkedin: https://www.linkedin.com/in/dante-anthony-18549a64/
+   linkedin: "https://www.linkedin.com/in/dante-anthony-18549a64/"
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -50,7 +50,7 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-  - name: Python 
+  - name: Python
 
   - name: Java
     web_url: https://github.com/topics/java
