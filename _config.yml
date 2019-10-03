@@ -21,21 +21,22 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - CS211S
+     - reactPokedex
 
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-   hackerrank: "Calikidd86"
+   hackerrank: Calikidd86
   # instagram: your_username
   # keybase: your_username
-   linkedin: "https://www.linkedin.com/in/dante-anthony-18549a64/"
+   linkedin: dante-anthony-18549a64/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -50,7 +51,10 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-  - name: Python
+
+  - name: Unity
+    web_url: https://github.com/topics/unity
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
 
   - name: Java
     web_url: https://github.com/topics/java
